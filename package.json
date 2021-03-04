@@ -1,6 +1,6 @@
 {
   "name": "@dmcardoso/eslint-config-tech-talks",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Eslint base plugin config to Tech Talks presentation",
   "main": "index.js",
   "scripts": {
