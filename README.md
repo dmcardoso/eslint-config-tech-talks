@@ -13,7 +13,7 @@ npx install-peerdeps --dev @dmcardoso/tech-talks-eslint -Y
 ```
 "eslintConfig": {
   "extends": [
-    "@dmcardoso"
+    "@dmcardoso/tech-talks-eslint"
   ]
 },
 ```
@@ -23,7 +23,7 @@ npx install-peerdeps --dev @dmcardoso/tech-talks-eslint -Y
 ```
 {
   "extends": [
-    "@dmcardoso"
+    "@dmcardoso/tech-talks-eslint"
   ]
 }
 ```
